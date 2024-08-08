@@ -399,3 +399,5 @@ FodyWeavers.xsd
 
 # Custom
 **/out/**
+**/.vscode-test/**
+**/src/test/mock/projects/**
